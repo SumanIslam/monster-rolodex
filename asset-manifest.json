@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SumanIslam/monster-rolodex/static/css/main.18d1ebf4.chunk.css",
+    "main.js": "/SumanIslam/monster-rolodex/static/js/main.fe07ca7b.chunk.js",
+    "main.js.map": "/SumanIslam/monster-rolodex/static/js/main.fe07ca7b.chunk.js.map",
+    "runtime-main.js": "/SumanIslam/monster-rolodex/static/js/runtime-main.2cfcf71e.js",
+    "runtime-main.js.map": "/SumanIslam/monster-rolodex/static/js/runtime-main.2cfcf71e.js.map",
+    "static/js/2.dfbca4df.chunk.js": "/SumanIslam/monster-rolodex/static/js/2.dfbca4df.chunk.js",
+    "static/js/2.dfbca4df.chunk.js.map": "/SumanIslam/monster-rolodex/static/js/2.dfbca4df.chunk.js.map",
+    "static/js/3.e09558a6.chunk.js": "/SumanIslam/monster-rolodex/static/js/3.e09558a6.chunk.js",
+    "static/js/3.e09558a6.chunk.js.map": "/SumanIslam/monster-rolodex/static/js/3.e09558a6.chunk.js.map",
+    "index.html": "/SumanIslam/monster-rolodex/index.html",
+    "static/css/main.18d1ebf4.chunk.css.map": "/SumanIslam/monster-rolodex/static/css/main.18d1ebf4.chunk.css.map",
+    "static/js/2.dfbca4df.chunk.js.LICENSE.txt": "/SumanIslam/monster-rolodex/static/js/2.dfbca4df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cfcf71e.js",
+    "static/js/2.dfbca4df.chunk.js",
+    "static/css/main.18d1ebf4.chunk.css",
+    "static/js/main.fe07ca7b.chunk.js"
+  ]
+}
