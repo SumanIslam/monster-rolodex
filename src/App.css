@@ -1,3 +1,8 @@
 .App {
   text-align: center;
 }
+h1 {
+  font-family: 'Pattaya', sans-serif;
+  font-size: 3rem;
+  color: #0ccac4;
+}
